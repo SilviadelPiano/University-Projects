@@ -43,18 +43,40 @@ For more details, refer to the code repository, which contains a short but more 
 #### **Machine Learning**
 
 
-#### **Network Infostructures** (se riesco a trovarlo)
-
 
 #### **Internet of Things** 
 
 
 #### **Bioinformatics and Network Medicine**
 
+*Taught by Prof. Paolo Tieri and  Prof. Manuela Petti*
 
+This project was developed with Marie Piquet and Svenja Jedhoff.   
+In this exam, we applied network medicine techniques to study cancer neoplasms. This is the abstract of the work we did: it summarizes quite well the objective of this project and the tools used:   
+
+*Stomach neoplasms are nowadays, together with other cancers, still one of the major causes of death worldwide.
+Due to this reason, the objective of this study is to identify genes that may be connected to this family of cancers,
+to improve our understanding of this disease and its treatment. This work utilises network medicine techniques on
+data gathered from the biological databases BioGRID and DisGeNET to build a protein-protein-interaction network
+with genes which are known to be associated with stomach neoplasm. Afterwards, to predict putative disease
+genes, 5-fold cross-validation is used for a performance evaluation of three algorithms: DIAMOnD, DiaBLE, and
+heat-diffusion. The putative disease genes identified show a higher degree, betweenness, and closeness centrality
+than average, strongly suggesting a central role in the network. Using the databases of GO and KEGG, an
+enrichment analysis is executed with the web-platform EnrichR on the first 200 putative disease genes provided
+by the best performing algorithm. However, its results suggest that the identified putative disease genes are not
+involved in the disease. Finally, the drug repurposing possibility is investigated, using the first 20 putative disease
+genes. The drugs Selumetinib, Tanespimy and Trametinib could be identified. According to ClinicalTrials.gov,
+Selumetinib has not been involved in studies regarding stomach neoplasms yet. Nonetheless, it was found that the
+drug Tanespimycin has been in clinical trials but no results have been published and that the drug Trametinib is
+involved in two ongoing clinical trials for the disease of stomach neoplasm.*   
 
 #### **Process Management and Mining**
 
+*Taught by Prof. Andrea Marrella*
+
+This project is almost finished. It's being developed with Jessica Brandi and Gianluca Circelli.   
+It follows a business process lifecycle: from designing the BMPN model, analyzing it, performing simulation and execution with Bizagi Modeler and Bizagi Studio, exploring the opportunities of RPA (Robotic Process Automation) with UiPath and doing process mining with tools like ProM and similar.   
+As soon as it's finished, more information on it will be provided.
 
 #### **Mobile Application and Cloud Computing**   
 
