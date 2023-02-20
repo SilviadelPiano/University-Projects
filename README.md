@@ -14,7 +14,8 @@ This degree was taught is Italian.
 
 *Taught by Prof. Giorgio Grisetti*    
  
-This project was developed with Giacomo Acitelli and Alessio Devoto.   
+This project was developed with Giacomo Acitelli and Alessio Devoto.    
+
 We built a system to monitor a plant made of two parts: a PC client and an avr ATmega2560 microcontroller. We attached a temperature, light, and humidity sensor to this board to collect data. With the client, the user can interact with the board from the command line and request the data that is being measured by the sensors. In any case, measures are periodically taken by the microcontroller and logged on the shell.
 
 This is the repository of the code, written in C: [PlantGuardian repository](https://github.com/giacomo1096/ProgettoOS.git).   
@@ -42,6 +43,17 @@ For more details, refer to the code repository, which contains a short but more 
   
 #### **Machine Learning**
 
+*Taught by Prof. Fabio Patrizi*
+
+In this course we were taught the basic theory and techniques of machine learning. We had to deliver two homeworks: in the first one, we had to work on malware detection using different classifiers (), while in the second one we did image classification comparing LeNet and AlexNet neural networks models. Both the classifiers were compared using the metrics of precision, recall and accuracy, considering the overall performance.   
+
+These are the Jupyter notebooks with the code: 
+- [Homwork 1 notebook](https://github.com/SilviadelPiano/University-Projects/blob/main/Homework1.ipynb)
+- [Homework 2 notebook](https://github.com/SilviadelPiano/University-Projects/blob/main/Homework2.ipynb).
+
+These are the reports: 
+- [Homework 1 report](https://github.com/SilviadelPiano/University-Projects/blob/main/ML_Homework_1_report.pdf)
+- [Homework 2 report](https://github.com/SilviadelPiano/University-Projects/blob/main/ML_Homework_2_report.pdf)
 
 
 #### **Internet of Things** 
@@ -52,6 +64,7 @@ For more details, refer to the code repository, which contains a short but more 
 *Taught by Prof. Paolo Tieri and  Prof. Manuela Petti*
 
 This project was developed with Marie Piquet and Svenja Jedhoff.   
+
 In this exam, we applied network medicine techniques to study cancer neoplasms. This is the abstract of the work we did: it summarizes quite well the objective of this project and the tools used:   
 
 *Stomach neoplasms are nowadays, together with other cancers, still one of the major causes of death worldwide.
@@ -70,11 +83,15 @@ Selumetinib has not been involved in studies regarding stomach neoplasms yet. No
 drug Tanespimycin has been in clinical trials but no results have been published and that the drug Trametinib is
 involved in two ongoing clinical trials for the disease of stomach neoplasm.*   
 
+The complete report is this: [BNM report](https://github.com/SilviadelPiano/University-Projects/blob/main/BMN_proj_group_10.pdf). It was written using the Google Docs template provided by the professors.
+
+
 #### **Process Management and Mining**
 
 *Taught by Prof. Andrea Marrella*
 
-This project is almost finished. It's being developed with Jessica Brandi and Gianluca Circelli.   
+This project is almost finished. It's being developed with Jessica Brandi and Gianluca Circelli.  
+
 It follows a business process lifecycle: from designing the BMPN model, analyzing it, performing simulation and execution with Bizagi Modeler and Bizagi Studio, exploring the opportunities of RPA (Robotic Process Automation) with UiPath and doing process mining with tools like ProM and similar.   
 As soon as it's finished, more information on it will be provided.
 
