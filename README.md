@@ -34,10 +34,12 @@ For more details, refer to the code repository, which contains a short but more 
 
 [Tesi in Latex](https://github.com/SilviadelPiano/Tesi_Triennale.git)
 
-
-
-### Master's Degree
-
+   
+     
+     
+### Master's Degree  
+  
+  
 #### **Machine Learning**
 
 
