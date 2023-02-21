@@ -49,7 +49,7 @@ In this course we were taught the basic theory and techniques of machine learnin
 
 These are the Jupyter notebooks with the code: 
 - [Homwork 1 notebook](https://github.com/SilviadelPiano/University-Projects/blob/main/Homework1.ipynb)
-- [Homework 2 notebook](https://github.com/SilviadelPiano/University-Projects/blob/main/Homework2.ipynb).
+- [Homework 2 notebook](https://github.com/SilviadelPiano/University-Projects/blob/main/Homework2.ipynb)
 
 These are the reports: 
 - [Homework 1 report](https://github.com/SilviadelPiano/University-Projects/blob/main/ML_Homework_1_report.pdf)
@@ -58,6 +58,21 @@ These are the reports:
 
 #### **Internet of Things** 
 
+*Taught by Prof. Andrea Vitaletti and Prof. Ioannis Chatzigiannakis*
+
+During this course, we had to complete four individual assignments and one big group project. For each homework, we were required to make a post on Hackster.io and a video on Youtube (the links are in the corresponding repositories).   
+Since the documentation is quite complete, I'll directly leave the links to the pages containing the code.   
+
+Individual assignments:   
+
+- [Assignment 1](https://github.com/AssignmentsIoT/Assignment1_IoT.git)
+- [Assignment 2](https://github.com/AssignmentsIoT/Assignment2_IoT.git)
+- [Assignment 3](https://github.com/AssignmentsIoT/Assignment3_IoT.git)
+- [Assignment 4](https://github.com/AssignmentsIoT/Assignment4IoT.git)
+
+The group project was developed with Gianmarco Zizzo and Stefano Foti, and it's one of the works I'm proudest of.
+ 
+- [IoT Project: MuSA](https://github.com/stefanofoti/musa.git)
 
 #### **Bioinformatics and Network Medicine**
 
@@ -90,7 +105,7 @@ The complete report is this: [BNM report](https://github.com/SilviadelPiano/Univ
 
 *Taught by Prof. Andrea Marrella*
 
-This project is almost finished. It's being developed with Jessica Brandi and Gianluca Circelli.  
+This project is almost finished. I've been developing it with Jessica Brandi and Gianluca Circelli.  
 
 It follows a business process lifecycle: from designing the BMPN model, analyzing it, performing simulation and execution with Bizagi Modeler and Bizagi Studio, exploring the opportunities of RPA (Robotic Process Automation) with UiPath and doing process mining with tools like ProM and similar.   
 As soon as it's finished, more information on it will be provided.
