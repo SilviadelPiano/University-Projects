@@ -45,7 +45,7 @@ For more details, refer to the code repository, which contains a short but more 
 
 *Taught by Prof. Fabio Patrizi*
 
-In this course we were taught the basic theory and techniques of machine learning. We had to deliver two homeworks: in the first one, we had to work on malware detection using different classifiers (), while in the second one we did image classification comparing LeNet and AlexNet neural networks models. Both the classifiers were compared using the metrics of precision, recall and accuracy, considering the overall performance.   
+In this course we were taught the basic theory and techniques of machine learning. We had to deliver two homeworks: in the first one, we had to work on malware detection using different classifiers (Multinomial Naive Bayes, Support Vector Machine with kernel method, Decision Tree, Random Forest), while in the second one we did image classification comparing LeNet and AlexNet neural networks models. Both the classifiers and the neural networks were compared using the metrics of precision, recall, F1-score and accuracy, considering the overall performance.   
 
 These are the Jupyter notebooks with the code: 
 - [Homwork 1 notebook](https://github.com/SilviadelPiano/University-Projects/blob/main/Homework1.ipynb)
@@ -80,7 +80,7 @@ The group project was developed with Gianmarco Zizzo and Stefano Foti, and it's 
 
 This project was developed with Marie Piquet and Svenja Jedhoff.   
 
-In this exam, we applied network medicine techniques to study cancer neoplasms. This is the abstract of the work we did: it summarizes quite well the objective of this project and the tools used:   
+In this project, we applied network medicine techniques to study stomach neoplasms. This is the abstract of the report we wrote: it summarizes quite well the objective of this work and the tools used:   
 
 *Stomach neoplasms are nowadays, together with other cancers, still one of the major causes of death worldwide.
 Due to this reason, the objective of this study is to identify genes that may be connected to this family of cancers,
@@ -98,7 +98,9 @@ Selumetinib has not been involved in studies regarding stomach neoplasms yet. No
 drug Tanespimycin has been in clinical trials but no results have been published and that the drug Trametinib is
 involved in two ongoing clinical trials for the disease of stomach neoplasm.*   
 
-The complete report is this: [BNM report](https://github.com/SilviadelPiano/University-Projects/blob/main/BMN_proj_group_10.pdf). It was written using the Google Docs template provided by the professors.
+The complete report is this: [BNM report](https://github.com/SilviadelPiano/University-Projects/blob/main/BMN_proj_group_10.pdf). It was written using the Google Docs template provided by the professors.   
+
+In the corresponding .zip folder it's possible to find the code and other material used.
 
 
 #### **Process Management and Mining**
@@ -107,7 +109,7 @@ The complete report is this: [BNM report](https://github.com/SilviadelPiano/Univ
 
 This project is almost finished. I've been developing it with Jessica Brandi and Gianluca Circelli.  
 
-It follows a business process lifecycle: from designing the BMPN model, analyzing it, performing simulation and execution with Bizagi Modeler and Bizagi Studio, exploring the opportunities of RPA (Robotic Process Automation) with UiPath and doing process mining with tools like ProM and similar.   
+It follows a business process lifecycle: designing the BMPN model, analyzing it, performing simulation and execution with Bizagi Modeler and Bizagi Studio, exploring the opportunities of RPA (Robotic Process Automation) with UiPath and doing process mining with tools like ProM and similar.   
 As soon as it's finished, more information on it will be provided.
 
 #### **Mobile Application and Cloud Computing**   
