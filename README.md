@@ -107,18 +107,20 @@ In the corresponding .zip folder it's possible to find the code and other materi
 
 *Taught by Prof. Andrea Marrella*
 
-This project is almost finished. I've been developing it with Jessica Brandi and Gianluca Circelli.  
+This project is finshed and it was developed with Jessica Brandi and Gianluca Circelli.  
 
 It follows a business process lifecycle: designing the BMPN model, analyzing it, performing simulation and execution with Bizagi Modeler and Bizagi Studio, exploring the opportunities of RPA (Robotic Process Automation) with UiPath and doing process mining with tools like ProM and similar.   
-As soon as it's finished, more information on it will be provided.
+As soon as possible more information on it will be provided.
 
 #### **Mobile Application and Cloud Computing**   
 
 *Taught by Prof. Roberto Beraldi*   
 
-This project has to be started yet.   
+This project is finished and it was developed with Gianluca Circelli.
+
+As soon as possible more information on it will be provided.
 
 
 #### **Thesis**  
 
-Coming soon!
+Coming soon! Gradutation: October 2023.
